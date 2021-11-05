@@ -1,0 +1,5 @@
+INFLATORS_PATH: "~/project_dir/TAWA Data/Linked/20200720/HYEFU20/Inputs/Inflators_HYEFU20.xlsx"
+INFLATORS_MAPPING_PATH: "~/project_dir/TAWA Data/Linked/20200720/HYEFU20/Inputs/Mapping_HYEFU20.xlsx"
+SURVEY: HES18
+DB_PATH:
+  HES18: "~/project_dir/TAWA Data/Linked/20200720/Databases/Period/HES18_Linked_20200720.csv"
